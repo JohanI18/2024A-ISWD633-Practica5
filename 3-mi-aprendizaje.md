@@ -1,3 +1,1 @@
-# COMPLETAR  
-Comparando sus conocimientos antes de hacer la práctica con sus conocimientos después de hacer la tarea, explicar los principales aprendizajes logrados para beneficio de su formación profesional.  
-Si solucionó un problema presentado al realizar la práctica también se debe documentar.
+En esta práctica, aprendimos a usar Docker Compose para desplegar aplicaciones con múltiples servicios, específicamente SonarQube y PostgreSQL. Configuramos variables de entorno, mapeo de puertos, volúmenes para persistencia de datos y configuraciones, y healthchecks para monitorear la salud de los servicios. También establecimos dependencias entre servicios, asegurando el correcto orden de inicio. Esta práctica proporciona una base sólida para gestionar aplicaciones complejas de manera eficiente y escalable, facilitando el despliegue y mantenimiento en entornos de desarrollo y producción.
