@@ -67,3 +67,4 @@ volumes:
 
 ![Ejercicio docker compose](imagenes/sonar.png)
 
+![Ejercicio docker compose](imagenes/sonar2.png)
